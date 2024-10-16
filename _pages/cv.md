@@ -9,37 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+Affiliations
+======
+* University of St. Gallen - School of Medicine, Chair of Health Economics, Policy and Management
+* University of Lucerne - Swiss Learning Health Systems
+* University of York - Health Econometrics and Data Group
+* Harvard University - International Health Systems Research Collaborative
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in International Affairs and Political Economy, University of St. Gallen, 2015 (expected)
+* Master in Quantitative Economics and Finance, University of St. Gallen, 2022
+* Bachelor in Philosphy, Politics and Economics, Witten / Herdecke University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since July 2021: Research Associate
+  * Chair of Health Economics, Politics and Management - School of Medicine - Univeristy of St. Gallen
+  * Duties includes:
+    * Data base manager for health insurance data, hospital cost data, medical statistics data
+    * Systems admin for remote Linus server
+    * Teaching for Master students in Economis and in Medicine 
+  * Supervisor: Prof. Alexander Geissler
+    
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2018 - April 2019: Statistical and Financial Analyst
+  * Audi AG
+  * Supervisor: Anton Poll
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical Programming
+  * R (professional)
+  * Python (professional)
+* Database Management
+  * SQL (intermediate)
+  * SSMS (intermediate)
+* DevOps: Linux Server (intermediate)
 
 Publications
 ======
@@ -61,4 +67,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* St. Gallen Symposium - Academic Jury (since 2022)
+* ROCK YOUR LIFE! Schweiz - Mentor (2023-2024)
+* Ad-Hoc Economics - VP, Head of Finance (2019-2021)
