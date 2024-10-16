@@ -4,7 +4,7 @@ collection: teaching
 type: "Master-level course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "School of Economics and Political Science, University of St. Gallen"
-date: 2024
+date: 2015-01-01
 location: "St. Gallen, Switzerland"
 ---
 
