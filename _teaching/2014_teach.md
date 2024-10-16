@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Economics in Healthcare"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master-level course"
+permalink: /teaching/2024_healthecon
+venue: "School of Economics and Political Science, University of St. Gallen"
+date: "Since spring 2024"
+location: "St. Gallen, Switzerland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course is about the application of economic theories and tools to questions in healthcare. The course builds up on
+prior knowledge of microeconomic theory and econometrics and translates the concepts to pressing healthcare challenges.
+Goals of the course: Understanding the pressing questions in healthcare and the potential empirical approaches available
+to tackle them by finding answers and solutions; Overview of the current state of health economic research.
