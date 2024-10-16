@@ -17,4 +17,10 @@ More specifically I have working papers on
 * Unlabled data-learning for positive unlabled data
 * Entiy Embedding for high dimensional categorical variables
 
+I am affiliated with 
+* University of St. Gallen - School of Medicine, Chair of Health Economics, Policy and Management
+* University of Lucerne - Swiss Learning Health Systems
+* University of York - Health Econometrics and Data Group
+* Harvard University - International Health Systems Research Collaborative
+
 In my free time I like mountaineering, climibing, cycling and cooking.
