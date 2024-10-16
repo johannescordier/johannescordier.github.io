@@ -2,7 +2,7 @@
 title: "Economics in Healthcare"
 collection: teaching
 type: "Master-level course"
-permalink: /teaching/2024_healthecon
+permalink: /teaching/2015-spring-teaching-1
 venue: "School of Economics and Political Science, University of St. Gallen"
 date: 2024
 location: "St. Gallen, Switzerland"
