@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Johannes Cordier / Site Title"
+title                    : "Johannes Cordier"
 title_separator          : "-"
 name                     : &name "Johannes Cordier"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "St. Gallen - Switzerland"
-  employer         : "School of Medicine - University of St. Gallen"
+  employer         : "University of St. Gallen"
   uri              : # URL
   email            : "johannes.cordier@unisg.ch" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : https://scholar.google.com/citations?user=G2wDOtkAAAAJ&inst=2090076968228969384
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0009-0002-0083-5182
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -218,7 +218,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
