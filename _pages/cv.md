@@ -18,7 +18,7 @@ Affiliations
 
 Education
 ======
-* Ph.D in International Affairs and Political Economy, University of St. Gallen, 2015 (expected)
+* Ph.D in International Affairs and Political Economy, University of St. Gallen, 2025 (expected)
 * Master in Quantitative Economics and Finance, University of St. Gallen, 2022
 * Bachelor in Philosphy, Politics and Economics, Witten / Herdecke University, 2018
 
