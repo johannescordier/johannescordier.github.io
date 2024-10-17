@@ -23,4 +23,4 @@ I am affiliated with
 * University of York - Health Econometrics and Data Group
 * Harvard University - International Health Systems Research Collaborative
 
-In my free time I like mountaineering, climibing, cycling and cooking.
+In my free time I like mountaineering, climbing, cycling and cooking.
